@@ -1,3 +1,5 @@
+Liten endring
+
 # Infrastruktur som kode med Terraform og AWS App runner
 
 Når du er ferdig med denne oppgaven vil du ha et repository som inneholder en Spring Boot applikasjon.
